@@ -18,11 +18,11 @@ class Program
   {
     double sum = 0;
 
-    for (int i = 0; i < arr.GetLength(1); i++) // Spalten SPICKER!!
+    for (int i = 1; i < arr.GetLength(0); i++) // Spalten SPICKER!!
     {
-      for (int j = i + 1; j < arr.GetLength(0); j++) // Zeilen SPICKER!!
+      for (int j = 0; j < i; j++) // Zeilen SPICKER!!
       {
-        sum += arr[j, i]; // SPICKER!!
+        sum += arr[i, j]; // SPICKER!!
       }
     }
     return sum;
