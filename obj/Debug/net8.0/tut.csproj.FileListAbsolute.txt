@@ -12,3 +12,4 @@
 /home/panderu/repo/csharp/tut/obj/Debug/net8.0/tut.pdb
 /home/panderu/repo/csharp/tut/obj/Debug/net8.0/tut.genruntimeconfig.cache
 /home/panderu/repo/csharp/tut/obj/Debug/net8.0/ref/tut.dll
+/home/panderu/repo/csharp/tut/obj/Debug/net8.0/tut.sourcelink.json
