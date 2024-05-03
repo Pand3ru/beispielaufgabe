@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "utFWJ6+SWjW704RJ4NrgiJWXEMA71kECIE4XRj1d7xNDkUGK0foucM3emEWVGqU9tIbYnlhriSxRPsT8ITt1lg==",
+  "success": true,
+  "projectFilePath": "/home/panderu/repo/csharp/tut/tut.csproj",
+  "expectedPackageFiles": [
+    "/home/panderu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

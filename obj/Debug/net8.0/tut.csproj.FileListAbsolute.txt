@@ -1,0 +1,14 @@
+/home/panderu/repo/csharp/tut/obj/Debug/net8.0/tut.GeneratedMSBuildEditorConfig.editorconfig
+/home/panderu/repo/csharp/tut/obj/Debug/net8.0/tut.AssemblyInfoInputs.cache
+/home/panderu/repo/csharp/tut/obj/Debug/net8.0/tut.AssemblyInfo.cs
+/home/panderu/repo/csharp/tut/obj/Debug/net8.0/tut.csproj.CoreCompileInputs.cache
+/home/panderu/repo/csharp/tut/bin/Debug/net8.0/tut
+/home/panderu/repo/csharp/tut/bin/Debug/net8.0/tut.deps.json
+/home/panderu/repo/csharp/tut/bin/Debug/net8.0/tut.runtimeconfig.json
+/home/panderu/repo/csharp/tut/bin/Debug/net8.0/tut.dll
+/home/panderu/repo/csharp/tut/bin/Debug/net8.0/tut.pdb
+/home/panderu/repo/csharp/tut/obj/Debug/net8.0/tut.dll
+/home/panderu/repo/csharp/tut/obj/Debug/net8.0/refint/tut.dll
+/home/panderu/repo/csharp/tut/obj/Debug/net8.0/tut.pdb
+/home/panderu/repo/csharp/tut/obj/Debug/net8.0/tut.genruntimeconfig.cache
+/home/panderu/repo/csharp/tut/obj/Debug/net8.0/ref/tut.dll
